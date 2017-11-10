@@ -1,15 +1,12 @@
 # vue-girls
 
->  本项目是基于vue2最新实战项目，是适合新手进阶的绝佳教程。代码简单易懂，注释多多。实现了移动端使用最多的 无限滚动，图片加载，左右滑动，等待。先发布预览版本，后面更多更全的功能和教程将会陆续发出。
+>  本项目是基于vue2最新实战项目,实现了移动端使用最多的 无限滚动，图片加载，左右滑动，等等。
 
 ###首先
 
 ***
->*  感谢[gank.io](http://gank.io/)提供的api接口
 
->* demo地址 [demo](http://liangxiaojuan.github.io/meizi/index) （请用chrome的手机模式预览）
-
->* 本项目地址[github地址](https://github.com/liangxiaojuan/vue-Meizi)
+>* 本项目地址[github地址](https://github.com/xiaoyaopai/vue-girls)
 
 >* 手机扫一扫
 
