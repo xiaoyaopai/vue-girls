@@ -96,10 +96,3 @@ npm install friendly-errors-webpack-plugin --save-dev
 * 左右滑动切换
 * 等等
 
-### 正在实现的功能
-***
-* 上拉加载
-*  搜索
-*  我的收藏
-*  登录
-*  等等
