@@ -8,9 +8,6 @@
 
 >* 本项目地址[github地址](https://github.com/xiaoyaopai/vue-girls)
 
->* 手机扫一扫
-
-![项目二维码.png](http://upload-images.jianshu.io/upload_images/4249223-553d02ead2cb78fe.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 ### 项目技术架构
@@ -26,10 +23,7 @@
 *  webpack
 
 ###上图
-***
-* 侧滑导航
 
-![1.gif](http://upload-images.jianshu.io/upload_images/4249223-5f3b13d8a460f340.gif?imageMogr2/auto-orient/strip)
 
 * 瀑布流布局，无限滚动，图片懒加载
 
@@ -44,7 +38,7 @@
 ***
 项目地址：（`git clone`）
 ```shell
-git clone https://github.com/liangxiaojuan/vue-Meizi.git
+git clone https://github.com/xiaoyaopai/vue-Meizi.git
 ```
 通过`npm`安装本地服务第三方依赖模块(需要已安装[Node.js](https://nodejs.org/))
 
