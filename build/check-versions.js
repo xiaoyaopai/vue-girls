@@ -6,6 +6,7 @@ var exec = function (cmd) {
     .execSync(cmd).toString().trim()
 }
 
+
 var versionRequirements = [
   {
     name: 'node',
