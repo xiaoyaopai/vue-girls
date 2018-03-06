@@ -5,6 +5,7 @@
  * name ： 路由的名字
  * component : 路由的组件路径
  */
+
 const routers = [{
   path: '/',
   name: 'index',
